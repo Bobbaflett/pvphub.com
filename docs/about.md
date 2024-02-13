@@ -5,14 +5,14 @@ navname: About
 
 # {{ site.serverName }}
 
-Moonrise is a simple, flexible template website for Minecraft servers.
+pvphub.com is a pvp server
 
-[GitHub](https://github.com/coffeebank/moonrise)
+[GitHub]((https://github.com/Bobbaflett/pvphubb))
 
 
 # Terms of Use
 
-Moonrise MC is free for use [under the MIT license](https://github.com/coffeebank/moonrise).
+Moonrise MC is free for use [under the MIT license](https://github.com/Bobbaflett/pvphubb).
 
 
 # Privacy Policy
